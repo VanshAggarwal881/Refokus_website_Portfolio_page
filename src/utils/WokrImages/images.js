@@ -1,0 +1,8 @@
+export const images = [
+    {url:'https://img.freepik.com/free-photo/person-with-books-digital-art-style-education-day_23-2151164322.jpg?t=st=1725801077~exp=1725804677~hmac=995a8f98a3f69955e3ac7522e2152feb091f588634fb0042f96ccb2ed467ddc8&w=740' , top:'50%', left:'50%', isActive:false},
+    {url:'https://img.freepik.com/free-photo/person-with-books-digital-art-style-education-day_23-2151164314.jpg?t=st=1725801115~exp=1725804715~hmac=a0f079bd635727b18bbb05c1d4309bcb5ed9ec7f94b0059caa970afff65f823e&w=826' , top:'56%', left:'44%', isActive:false},
+    {url:'https://img.freepik.com/free-photo/person-with-books-digital-art-style-education-day_23-2151164311.jpg?t=st=1725801237~exp=1725804837~hmac=a51ae45a5d47e50887e23d4d1c1d005a2323924f3addefeeb9302e8241f55483&w=826' , top:'45%', left:'56%', isActive:false},
+    {url:'https://img.freepik.com/free-photo/person-with-books-digital-art-style-education-day_23-2151164294.jpg?t=st=1725800877~exp=1725804477~hmac=eb43c81d363132312f67b194ac397adff96e58a84e57507cede957ba21928f54&w=826' , top:'60%', left:'53%', isActive:false},
+    {url:'https://img.freepik.com/free-photo/person-with-books-digital-art-style-education-day_23-2151164317.jpg?t=st=1725801291~exp=1725804891~hmac=08a57a938a29acc56cacf95aa19b354baf4741d5e5546364db4e00b86dc8c4eb&w=740' , top:'43%', left:'40%', isActive:false},
+    {url:'https://img.freepik.com/free-photo/person-with-books-digital-art-style-education-day_23-2151164322.jpg?t=st=1725801077~exp=1725804677~hmac=995a8f98a3f69955e3ac7522e2152feb091f588634fb0042f96ccb2ed467ddc8&w=740' , top:'65%', left:'55%', isActive:false}
+]
